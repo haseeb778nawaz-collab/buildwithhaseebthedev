@@ -26,8 +26,8 @@ export const profile = {
   whatsapp: "https://wa.me/923105837845",
   profileImage: "/images/projects/profile.jpg",
   resumeUrl: "/images/projects/Haseeb_Nawaz_Resume (1).pdf",
-  calendlyUrl: "",
-  availability: "",
+  calendlyUrl: "https://calendly.com/haseeb778nawaz",
+  availability: "Available For New Projects",
 };
 
 export const socials = [
